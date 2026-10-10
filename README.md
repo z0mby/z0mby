@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey, I'm John 👋
+
+Frontend Engineer with a soft spot for the work nobody else wants to pick up. I build TypeScript apps with React, MUI, Tanstack, and Supabase, but where I'm most useful is turning that stack underneath into interfaces people actually care about using. I'm the person between design and engineering who turns a vague idea into something shippable.
+
+Lately, I'm building a headless e-commerce project in the entertainment space.
+
+## 🔗 Links
+* 🤝 LinkedIn: [John Manno](https://www.linkedin.com/in/johnmanno)
+
+
 
 <!--
 **z0mby/z0mby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

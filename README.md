@@ -1,6 +1,6 @@
 ## Hey, I'm John 👋
 
-Frontend Engineer with a soft spot for the work nobody else wants to pick up. I build TypeScript apps with React, MUI, Tanstack, and Supabase, but where I'm most useful is turning that stack underneath into interfaces people actually care about using. I'm the person between design and engineering who turns a vague idea into something shippable.
+Frontend Engineer with a soft spot for the work nobody else wants to pick up. I build TypeScript apps with React, MUI, Tanstack, Express (very recently) and Supabase, but where I'm most useful is turning that stack underneath into interfaces people actually care about using. I'm the person between design and engineering who turns a vague idea into something shippable.
 
 Lately, I'm building a headless e-commerce project in the entertainment space.
 
